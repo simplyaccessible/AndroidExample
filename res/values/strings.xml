@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="hello">Hello, Android! I am a string resource!</string>
     <string name="app_name">Hello, Android</string>
+    <string name="hello">Hello, Android! How are you today?</string>
+    <string name="hello_button">Say hello Android!</string>
+    <string name="hello_android">Beep boop!</string>
 </resources>
